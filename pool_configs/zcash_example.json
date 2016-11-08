@@ -1,8 +1,8 @@
 {
     "enabled": false,
-    "coin": "litecoin.json",
+    "coin": "zcash.json",
 
-    "address": "n4jSe18kZMCdGcZqaYprShXW6EH1wivUK1",
+    "address": "Your_main_zcash_wallet",
 
     "rewardRecipients": {
         "n37vuNFkXfk15uFnGoVyHZ6PYQxppD3QqK": 1.5,
